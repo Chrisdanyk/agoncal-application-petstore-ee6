@@ -6,9 +6,7 @@
 * *Application Servers* : GlassFish 3.x, JBoss 7.x, TomEE 1.x
 * *Summary* : A Petstore-like application using Java EE 6
 
-[Download the code from GitHub](https://github.com/agoncal/agoncal-application-petstore-ee6)
-
-[Télécharger le fork JavaTeam sur GitHub](https://github.com/JavaTeam/agoncal-application-petstore-ee6.git)
+[Download the code from GitHub](https://github.com/agoncal/agoncal-application-petstore-ee6) / [Télécharger le fork JavaTeam sur GitHub](https://github.com/JavaTeam/agoncal-application-petstore-ee6.git)
 
 ## Purpose of this application
 
